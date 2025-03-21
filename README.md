@@ -1,7 +1,7 @@
 # Pretty-Simple-Vulnerable-Web-Application-PSVWA-
 
 **Author**: Yap Ming Shen 
-**Last Update**: March 07, 2025
+**Last Update**: March 21, 2025
 
 ## Overview
 PSVWA is a Flask app demoing web vulnerabilities (XSS, SQL Injection, Command Injection, CSRF) in its vulnerable version (`vulnerable_app.py`) and fixes in its resolved version (`resolved_app.py`).
