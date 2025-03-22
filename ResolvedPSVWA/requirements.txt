@@ -1,0 +1,4 @@
+Flask==2.3.3
+flask-bcrypt==1.0.1
+bleach==6.1.0
+flask-limiter==3.5.1
