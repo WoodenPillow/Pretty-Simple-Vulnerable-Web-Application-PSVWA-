@@ -1,4 +1,4 @@
-# Pretty Simple Vulnerable Web-Application PSVWA-
+# Pretty Simple Vulnerable Web Application PSVWA
 
 **Author**: Yap Ming Shen 
 **Last Update**: March 22, 2025
